@@ -1,0 +1,22 @@
+Content-Type: multipart/alternative;
+ boundary="----sinikael-?=_1-14699285706870.3880994648206979"
+From: hello@imsean.me
+To: sean@kbve.com
+Subject: Hello
+Message-ID: <c50d33e1-959e-c44a-88e2-a4edcf152b39@imsean.me>
+X-Mailer: nodemailer (2.5.0; +http://nodemailer.com/;
+ SMTP/2.6.0[client:2.8.0])
+Date: Sun, 31 Jul 2016 01:29:30 +0000
+MIME-Version: 1.0
+
+------sinikael-?=_1-14699285706870.3880994648206979
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+World
+------sinikael-?=_1-14699285706870.3880994648206979
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<b>World</b>
+------sinikael-?=_1-14699285706870.3880994648206979--

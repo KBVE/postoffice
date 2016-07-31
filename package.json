@@ -16,9 +16,19 @@
     "lib"
   ],
   "license": "MIT",
+  "bin": {
+    "postoffice": "./lib/index.js"
+  },
   "devDependencies": {
     "ava": "^0.15.2",
     "eslint": "^3.2.0",
     "eslint-config-google": "^0.6.0"
+  },
+  "dependencies": {
+    "mailin": "^3.0.3",
+    "mysql2": "^1.0.0-rc.8",
+    "nodemailer": "^2.5.0",
+    "rc": "^1.1.6",
+    "zt": "^1.0.0"
   }
 }

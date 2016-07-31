@@ -1,5 +1,5 @@
 # postoffice
-> Send and receive email
+> Send and receive email. Map received emails to wordpress users' emails and forward them.
 
 ## Installation
 ```shell
